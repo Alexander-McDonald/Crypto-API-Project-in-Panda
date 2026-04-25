@@ -1,2 +1,2 @@
-# Crypto-API-Project-in-Panda
-Data cleaning project on crypto currency.
+# Cryptocurrency Data Pipeline & Market Analysis
+Built an automated Python pipeline to collect real-time cryptocurrency data from the CoinMarketCap API at scheduled intervals. The data was cleaned, structured, and stored for analysis, then explored using Pandas to evaluate price changes, supply metrics, and market trends over time. Created visualizations with Seaborn and Matplotlib to track performance patterns—such as Bitcoin price movement—and compare key indicators across multiple cryptocurrencies. This project highlights my ability to integrate APIs, automate data collection, and turn raw streaming data into actionable insights.
